@@ -1,0 +1,22 @@
+button{
+    width: 5%;
+    height: 5%;
+    border: 100%;
+    background-color: aquamarine;
+    padding: 0.8%;
+}
+.hw{
+    color: white; }
+a{
+    text-decoration: none;
+}
+#num{
+    border: 0.1em solid;
+    padding: 14px;
+    width: 18%;
+    text-align: left;
+    display: inline-block;
+}
+body{
+    margin: 0%;
+}
