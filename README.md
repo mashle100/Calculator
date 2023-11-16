@@ -1,3 +1,3 @@
 # Calculator<br>
 It is a simple Calculator.
-[main page](calcy.html)
+[main page](https://mashle100.github.io/Calculator/calcy.html)
